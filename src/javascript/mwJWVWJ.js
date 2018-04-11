@@ -7,7 +7,6 @@
 
 function CAIELmRxen() {
     var x = "";
-    console.log(x);
 }
 // End of generated code
 
@@ -15,6 +14,5 @@ function CAIELmRxen() {
 
 function gFyhQjsXuP() {
     var x = "";
-    console.log(x);
 }
 // End of generated code
