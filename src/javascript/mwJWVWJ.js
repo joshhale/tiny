@@ -7,7 +7,6 @@
 
 function CAIELmRxen() {
     var x = "";
-    console.log(x);
 }
 // End of generated code
 
